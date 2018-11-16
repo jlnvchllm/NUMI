@@ -1,0 +1,181 @@
+body {
+	color: black;
+	text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: Courier New;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: auto;
+}
+
+#main-menu {
+    margin-top: 0px;
+    padding: 0px;
+    text-align: center;
+    list-style: none;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(5, 1fr);
+    font-size: 20px;
+}
+
+.button {
+    background: #488DE8;
+    padding: 5px;
+    color: aliceblue;
+}
+
+.button:hover {
+    background: aliceblue;
+    color: black;
+}
+
+h1 {
+    font-size: 40px;
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.name {
+    border: 5px solid aliceblue;
+    padding: 20px;
+}
+
+.name p {
+    font-size: 20px;
+    font-family: Courier New;
+    text-align: center;
+}
+
+.mads {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.maddy {
+    text-align: left;
+    color:skyblue;
+    background: white;
+    padding: 20px;
+    padding-left: 90px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.maddy h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.maddy p {
+    margin: 50px 10px 50px 10px;
+}
+
+.bish {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.bishy {
+    text-align: left;
+    color:skyblue;
+    background: white;
+    padding: 20px;
+    padding-left: 90px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.bishy h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.bishy p {
+    margin: 50px 10px 50px 10px;
+}
+
+
+.tabs {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.tabuts {
+    text-align: left;
+    color:skyblue;
+    background: white;
+    padding: 20px;
+    padding-left: 90px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.tabuts h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.tabuts p {
+    margin: 50px 10px 50px 10px;
+}
+
+.arnel {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.arnely {
+    text-align: left;
+    color:skyblue;
+    background: white;
+    padding: 20px;
+    padding-left: 90px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.arnely h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.arnely p {
+    margin: 50px 10px 50px 10px;
+}
+
+.contact {
+    list-style: none;
+    font-size: 15px;
+    color: black;
+    background: aliceblue;
+    padding: 5px;
+    
+}
+
+.footer {
+    text-align: center;
+    padding:10px;
+    background: #E4EFFF;
+}
